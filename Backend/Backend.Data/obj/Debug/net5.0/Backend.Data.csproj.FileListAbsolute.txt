@@ -1,0 +1,12 @@
+E:\MindyStreet\Backend\Backend.Data\bin\Debug\net5.0\Backend.Data.deps.json
+E:\MindyStreet\Backend\Backend.Data\bin\Debug\net5.0\Backend.Data.dll
+E:\MindyStreet\Backend\Backend.Data\bin\Debug\net5.0\ref\Backend.Data.dll
+E:\MindyStreet\Backend\Backend.Data\bin\Debug\net5.0\Backend.Data.pdb
+E:\MindyStreet\Backend\Backend.Data\obj\Debug\net5.0\Backend.Data.csproj.AssemblyReference.cache
+E:\MindyStreet\Backend\Backend.Data\obj\Debug\net5.0\Backend.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\MindyStreet\Backend\Backend.Data\obj\Debug\net5.0\Backend.Data.AssemblyInfoInputs.cache
+E:\MindyStreet\Backend\Backend.Data\obj\Debug\net5.0\Backend.Data.AssemblyInfo.cs
+E:\MindyStreet\Backend\Backend.Data\obj\Debug\net5.0\Backend.Data.csproj.CoreCompileInputs.cache
+E:\MindyStreet\Backend\Backend.Data\obj\Debug\net5.0\Backend.Data.dll
+E:\MindyStreet\Backend\Backend.Data\obj\Debug\net5.0\ref\Backend.Data.dll
+E:\MindyStreet\Backend\Backend.Data\obj\Debug\net5.0\Backend.Data.pdb

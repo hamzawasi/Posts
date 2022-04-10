@@ -1,0 +1,15 @@
+E:\MindyStreet\Backend\Backend.Service\bin\Debug\net5.0\Backend.Service.deps.json
+E:\MindyStreet\Backend\Backend.Service\bin\Debug\net5.0\Backend.Service.dll
+E:\MindyStreet\Backend\Backend.Service\bin\Debug\net5.0\ref\Backend.Service.dll
+E:\MindyStreet\Backend\Backend.Service\bin\Debug\net5.0\Backend.Service.pdb
+E:\MindyStreet\Backend\Backend.Service\bin\Debug\net5.0\Backend.Data.dll
+E:\MindyStreet\Backend\Backend.Service\bin\Debug\net5.0\Backend.Data.pdb
+E:\MindyStreet\Backend\Backend.Service\obj\Debug\net5.0\Backend.Service.csproj.AssemblyReference.cache
+E:\MindyStreet\Backend\Backend.Service\obj\Debug\net5.0\Backend.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\MindyStreet\Backend\Backend.Service\obj\Debug\net5.0\Backend.Service.AssemblyInfoInputs.cache
+E:\MindyStreet\Backend\Backend.Service\obj\Debug\net5.0\Backend.Service.AssemblyInfo.cs
+E:\MindyStreet\Backend\Backend.Service\obj\Debug\net5.0\Backend.Service.csproj.CoreCompileInputs.cache
+E:\MindyStreet\Backend\Backend.Service\obj\Debug\net5.0\Backend.Service.csproj.CopyComplete
+E:\MindyStreet\Backend\Backend.Service\obj\Debug\net5.0\Backend.Service.dll
+E:\MindyStreet\Backend\Backend.Service\obj\Debug\net5.0\ref\Backend.Service.dll
+E:\MindyStreet\Backend\Backend.Service\obj\Debug\net5.0\Backend.Service.pdb

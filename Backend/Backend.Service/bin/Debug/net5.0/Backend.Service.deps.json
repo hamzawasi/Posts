@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Backend.Service/1.0.0": {
+        "dependencies": {
+          "Backend.Data": "1.0.0"
+        },
+        "runtime": {
+          "Backend.Service.dll": {}
+        }
+      },
+      "Backend.Data/1.0.0": {
+        "runtime": {
+          "Backend.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Backend.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Backend.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
